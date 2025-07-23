@@ -5,3 +5,6 @@
 
 ## effectiveString
 有效的括号
+
+## prefixArr
+最长公共前缀
